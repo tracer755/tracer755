@@ -5,5 +5,4 @@
 
 - 👨‍💻Proudly Self-Employed 
 - 🕹️BulletDrop Studios 
-- ⚒️Jasonmediagroup 
 - 📎 https://www.bulletdropstudios.com/
