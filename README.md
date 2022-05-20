@@ -6,4 +6,4 @@
 - 👨‍💻Proudly Self-Employed 
 - 🕹️BulletDrop Studios 
 - ⚒️Jasonmediagroup 
-- 📎www.JasonMediaGroup.com
+- 📎 https://www.bulletdropstudios.com/
