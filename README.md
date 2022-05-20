@@ -1,4 +1,4 @@
-<div style="width: 20%">
+<div style="width: 2%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracer755&theme=highcontrast" />
 
 - 👋 Hi, I’m @tracer755
