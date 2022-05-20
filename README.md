@@ -1,5 +1,4 @@
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracer755&theme=highcontrast" />
 
 - 👋 Hi, I’m @tracer755
@@ -9,5 +8,4 @@
 - 🕹️BulletDrop Studios 
 - ⚒️Jasonmediagroup 
 - 📎www.JasonMediaGroup.com
-</a>
 </div>
