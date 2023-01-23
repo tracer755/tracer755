@@ -1,3 +1,16 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracer755&theme=highcontrast" />
+<br />
 
+<p align="center">
+<img align="center" width="600h" src="https://raw.githubusercontent.com/tracer755/tracer755.github.io/main/img/bulletdrop_GAME_logo.png" />
+</p>
+
+<h3 align="center">A little game im working on</h3>   
+
+
+## Languages and tools
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" /></a><a href="https://nodejs.org/en/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a><a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+ 
 I am an idiot that facepalms a keyboard
+
+This is how you write a bio right?
