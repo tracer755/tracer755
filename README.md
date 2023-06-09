@@ -5,4 +5,4 @@
 
 I am an idiot that facepalms a keyboard
 
-This is how you write a bio right?
+I do not do it because it is easy but because I though it would be.
